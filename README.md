@@ -2,8 +2,6 @@
 
 ## My Gym
 
-```bash
-```
 Questa webapp vuole essere una soluzione comoda e a portata di smartphone per poter seguire e aggiornare i propri allenamenti in palestra in tempo reale.
 
 Vuoi seguire la tua scheda di allenamento? Apri questa webapp.
